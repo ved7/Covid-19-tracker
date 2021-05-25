@@ -1,0 +1,12 @@
+
+@media (min-width: 1025px) {
+  /* big landscape tablets, laptops, and desktops */
+  .cell-class {
+    border-color: black;
+    border-width: 0.01em;
+    border-style: solid;
+    margin-bottom: -1px;
+    cursor: pointer;
+  }
+
+}
